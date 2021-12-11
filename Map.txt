@@ -1,0 +1,76 @@
+1 -> Administrative Law
+2 -> Admiralty
+3 -> Agriculture
+4 -> Antitrust &amp; Trade Regulation
+5 -> Attorney's Fees
+6 -> Banking Law
+7 -> Bankruptcy Law
+8 -> Civil Procedure
+9 -> Civil Rights
+10 -> Class Actions
+11 -> Commercial Law
+12 -> Communications Law
+13 -> Constitutional Law
+14 -> Construction
+15 -> Consumer Protection Law
+16 -> Contracts
+17 -> Corp. Governance
+18 -> Corporation &amp; Enterprise Law
+19 -> Criminal Law &amp; Procedure
+20 -> Habeas Corpus
+21 -> Sentencing
+22 -> Cyberspace Law
+23 -> Debt Collection
+24 -> Dispute Resolution &amp; Arbitration
+25 -> Drugs &amp; Biotech
+31 -> ERISA
+26 -> Education Law
+27 -> Elder Law
+28 -> Elections
+29 -> Entertainment Law
+30 -> Environmental Law
+32 -> Ethics &amp; Disciplinary Code
+33 -> Ethics &amp; Professional Responsibility
+34 -> Evidence
+35 -> False Advertising
+36 -> Family Law
+37 -> Gaming Law
+38 -> Government Benefits
+39 -> Government Contracts
+40 -> Government Law
+41 -> Health Law
+42 -> Immigration Law
+43 -> Indian Law
+44 -> Injury &amp; Tort Law
+45 -> Insurance Law
+47 -> Copyright
+49 -> Trade Dress
+50 -> Trade Secrets
+51 -> Trademark
+52 -> International Law
+53 -> International Trade
+54 -> Judgment Enforcement
+55 -> Judges &amp; Judiciary
+56 -> Juvenile Law
+57 -> Labor &amp; Employment Law
+58 -> Landlord Tenant Law
+59 -> Legal Malpractice
+60 -> M&amp;A
+61 -> Media Law
+62 -> Military Law
+63 -> Oil and Gas Law
+64 -> Probate, Trusts &amp; Estates
+65 -> Product Liability
+66 -> Professional Malpractice
+67 -> Property Law &amp; Real Estate
+68 -> Public Utilities
+69 -> Remedies
+70 -> Sanctions
+71 -> Securities Law
+72 -> Sports Law
+73 -> Tax Law
+74 -> Tax-exempt Organizations
+75 -> Transportation
+76 -> Water Law
+77 -> White Collar Crime
+78 -> Workers' Compensation
