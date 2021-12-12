@@ -5,5 +5,5 @@
 *.ali
 
 
-raw_cases[cases_39155]/
-preprocessed_cases[cases_29404]/
+raw_cases/
+preprocessed_cases/
