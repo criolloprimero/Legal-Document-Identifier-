@@ -39,6 +39,8 @@ So we can see here we can collect top words by either frequency or by relevance 
  |XGboost Accuracy|
  |---------|
  |0.71% |
+ 
+ so not bad, but not what i was expecting, with random probability you and 20 categorical values, if you just choose randomly you would have a rate of about 5%. 
 
  These were the accompanied parameters for the model:
  Params were max_depth=6, learning rate of .3, and num_estimators=100, gamma= 0
