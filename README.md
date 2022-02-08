@@ -31,8 +31,8 @@ and just see if we could catagorize the data and  learn as much as we cleaning
 
 -I focused on 20 out of the 38 catagories. the complexity of the data made runs time time consuming so this is the reason I am cutting it about in half.
 
-![alt1](images\numberOfCase1.png)
-![alt2](images\numberOfCase2.png)
+![alt1 set1](images\numberOfCase1.png)
+![alt2 set2](images\numberOfCase2.png)
 
 so we can see here we can collect top words by either frequency or by relevance using TF-IDF.  
 
@@ -52,3 +52,11 @@ This was a bit discoraging because it seemed that the adjustments to the data di
  So we ran a NN and I thought it would run better through an LSTM but it seemed to peak out around 60 percent  before over fitting. But what we noticed, which relates to XGboost base model doing the best. Is the more unprocessed the data is the better the NN performed. Assuming because of more words to differentiate.​
 
  Parameters to play around with here that drastically affected performance were. The number of words the size of the pad_sequence data and the embedding size.
+
+# post Analysis
+
+![alt2 ](https://github.com/criolloprimero/Legal-Document-Identifier-/blob/main/images/for%20lawcat.png)
+
+![alt2 ](https://github.com/criolloprimero/Legal-Document-Identifier-/blob/main/images/for%20lawcat2.png)
+
+![alt2 ](https://github.com/criolloprimero/Legal-Document-Identifier-/blob/main/images/for%20lawcat3.png)
